@@ -1,0 +1,52 @@
+﻿@page "/"
+
+@inject HttpClient HttpClient
+@using EmployeeModel 
+
+<PageTitle>Index</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>EmpId</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Email</th>
+            <th>MobileNo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in employees)
+        {
+            <tr>
+                <td>@employee.EmpId</td>
+                <td>@employee.Firstname</td>
+                <td>@employee.Lastname</td>
+                <td>@employee.Email</td>
+                <td>@employee.MobileNo</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    List<Employee> employees = new List<Employee>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            employees = await HttpClient.GetFromJsonAsync<List<Employee>>("https://localhost:7248/api/employee/index");
+        }
+        catch (Exception ex)
+        {            // Handle any errors
+            Console.WriteLine(ex.Message);
+        }
+    }
+}

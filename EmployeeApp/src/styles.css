@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+body {
+    /*
+    Free Image used from https://www.freepik.com/
+    */
+    background-image: url('assets/images/emp_bg2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/*Customize Bootstrap card Class*/
+.card{
+    background-color: rgb(255 255 255 / 50%);
+    color: #000;
+    border-radius:unset;
+}
+
+/*Customize Bootstrap table Class*/
+.table{
+    --bs-table-bg: #ffffffc7;
+}

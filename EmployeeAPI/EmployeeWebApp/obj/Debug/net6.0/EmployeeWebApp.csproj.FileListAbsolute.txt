@@ -1,0 +1,154 @@
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeAPI.deps.json
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeAPI.runtimeconfig.json
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeAPI.exe
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeWebApp.staticwebassets.runtime.json
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeWebApp.exe
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeWebApp.deps.json
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeWebApp.runtimeconfig.json
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeWebApp.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeWebApp.pdb
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeAPI.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeModel.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeAPI.pdb
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeModel.pdb
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.csproj.AssemblyReference.cache
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.AssemblyInfoInputs.cache
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.AssemblyInfo.cs
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.RazorAssemblyInfo.cache
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.RazorAssemblyInfo.cs
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeWebApp.props
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeWebApp.props
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeWebApp.props
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\scopedcss\bundle\EmployeeWebApp.styles.css
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\scopedcss\projectbundle\EmployeeWebApp.bundle.scp.css
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.csproj.CopyComplete
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\refint\EmployeeWebApp.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.pdb
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.genruntimeconfig.cache
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\ref\EmployeeWebApp.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\appsettings.json
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeAPI.deps.json
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeAPI.runtimeconfig.json
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeAPI.exe
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeWebApp.staticwebassets.runtime.json
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeWebApp.exe
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeWebApp.deps.json
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeWebApp.runtimeconfig.json
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeWebApp.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeWebApp.pdb
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeAPI.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeModel.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeAPI.pdb
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\bin\Debug\net6.0\EmployeeModel.pdb
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.csproj.AssemblyReference.cache
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.AssemblyInfoInputs.cache
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.AssemblyInfo.cs
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.csproj.CoreCompileInputs.cache
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.RazorAssemblyInfo.cache
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.RazorAssemblyInfo.cs
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeWebApp.props
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeWebApp.props
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeWebApp.props
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\scopedcss\bundle\EmployeeWebApp.styles.css
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\scopedcss\projectbundle\EmployeeWebApp.bundle.scp.css
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.csproj.CopyComplete
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\refint\EmployeeWebApp.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.pdb
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\EmployeeWebApp.genruntimeconfig.cache
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeWebApp\obj\Debug\net6.0\ref\EmployeeWebApp.dll

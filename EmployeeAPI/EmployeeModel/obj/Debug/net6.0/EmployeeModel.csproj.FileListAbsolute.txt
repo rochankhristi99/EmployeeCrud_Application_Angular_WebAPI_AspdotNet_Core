@@ -1,0 +1,22 @@
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeModel\bin\Debug\net6.0\EmployeeModel.deps.json
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeModel\bin\Debug\net6.0\EmployeeModel.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeModel\bin\Debug\net6.0\EmployeeModel.pdb
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\EmployeeModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\EmployeeModel.AssemblyInfoInputs.cache
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\EmployeeModel.AssemblyInfo.cs
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\EmployeeModel.csproj.CoreCompileInputs.cache
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\EmployeeModel.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\refint\EmployeeModel.dll
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\EmployeeModel.pdb
+C:\Users\Rochan\source\repos\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\ref\EmployeeModel.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeModel\bin\Debug\net6.0\EmployeeModel.deps.json
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeModel\bin\Debug\net6.0\EmployeeModel.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeModel\bin\Debug\net6.0\EmployeeModel.pdb
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\EmployeeModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\EmployeeModel.AssemblyInfoInputs.cache
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\EmployeeModel.AssemblyInfo.cs
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\EmployeeModel.csproj.CoreCompileInputs.cache
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\EmployeeModel.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\refint\EmployeeModel.dll
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\EmployeeModel.pdb
+D:\BCA_MCA\My Projects\Angular_Projects\EmployeeAPI\EmployeeModel\obj\Debug\net6.0\ref\EmployeeModel.dll

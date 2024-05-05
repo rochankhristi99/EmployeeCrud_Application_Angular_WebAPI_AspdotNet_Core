@@ -1,0 +1,86 @@
+<div class="container mt-4">
+  <div class="row my-5">
+    <div class="col-md-6 offset-md-3">
+      <div class="card">
+        <div class="mx-5 my-5">
+          <!-- Employee Registration Form -->
+          <h1>Employee Registration</h1>
+          <form #myForm="ngForm" (ngSubmit)="save(myForm)" novalidate>
+            <!-- First Name Input -->
+            <div class="form-group mb-3">
+              <label>First Name</label>
+              <input type="text" name="firstname" [(ngModel)]="firstname" class="form-control" id="firstname" placeholder="Enter Firstname" required>
+              <!-- Validation Message for First Name -->
+              <div *ngIf="myForm && myForm.controls['firstname'] && myForm.controls['firstname'].touched && myForm.controls['firstname'].invalid" class="text-white bg-danger">The Firstname is required.</div>
+            </div>
+            <!-- Last Name Input -->
+            <div class="form-group mb-3">
+              <label>Last Name</label>
+              <input type="text" name="lastname" [(ngModel)]="lastname" class="form-control" id="lastname" placeholder="Enter Lastname" required>
+              <!-- Validation Message for Last Name -->
+              <div *ngIf="myForm && myForm.controls['lastname'] && myForm.controls['lastname'].touched && myForm.controls['lastname'].invalid" class="text-white bg-danger">The Lastname is required.</div>
+            </div>
+            <!-- Email Input -->
+            <div class="form-group mb-3">
+              <label>Email</label>
+              <input type="email" name="email" [(ngModel)]="email" class="form-control" id="email" placeholder="Enter Email" required>
+              <!-- Validation Messages for Email -->
+              <div *ngIf="myForm && myForm.controls['email'] && myForm.controls['email'].touched && myForm.controls['email'].hasError('required')" class="text-white bg-danger">Email is required.</div>
+              <div *ngIf="myForm && myForm.controls['email'] && myForm.controls['email'].touched && myForm.controls['email'].hasError('email')" class="text-white bg-danger">Invalid email format.</div>
+            </div>
+            <!-- Mobile Number Input -->
+            <div class="form-group mb-3">
+              <label>Mobile Number</label>
+              <input type="text" name="mobileNo" [(ngModel)]="mobileNo" class="form-control" id="mobileNo" placeholder="Enter Mobile No" required pattern="^\d{3} \d{3} \d{4}$">
+              <!-- Validation Messages for Mobile Number -->
+              <div *ngIf="myForm && myForm.controls['mobileNo'] && myForm.controls['mobileNo'].touched && myForm.controls['mobileNo'].hasError('required')" class="text-white bg-danger">Mobile number is required.</div>
+              <div *ngIf="myForm && myForm.controls['mobileNo'] && myForm.controls['mobileNo'].touched && myForm.controls['mobileNo'].hasError('pattern')" class="text-white bg-danger">Invalid mobile number format. Must be in the format XXX XXX XXXX.</div>
+            </div>
+            <!-- Save Button -->
+            <button type="submit" class="btn btn-primary mt-4 px-5">Save</button>
+            <!-- Update Button (Shown only if update form is active) -->
+            <button type="button" *ngIf="isUpdateFormActive" class="btn btn-secondary mt-4 mx-3" (click)="UpdateRecords()">Update</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container mt-4">
+    <!-- Employee Table -->
+    <h1 class="text-dark">Employee Table</h1>
+
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">First Name</th>
+          <th scope="col">Last Name</th>
+          <th scope="col">Email</th>
+          <th scope="col">Mobile No</th>
+          <th scope="col">Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- No Records Message -->
+        <tr>
+          <td colspan="5" class="text-center ">
+            <span *ngIf="!isResultLoaded"><b>No Records Found.</b></span>
+          </td>
+        </tr>
+        <!-- Loop through EmployeeArray to display employee records -->
+        <tr *ngFor="let EmployeeItem of EmployeeArray">
+          <!-- Display Employee Details -->
+          <td>{{EmployeeItem.firstname }}</td>
+          <td>{{EmployeeItem.lastname }}</td>
+          <td>{{EmployeeItem.email }}</td>
+          <td>{{EmployeeItem.mobileNo }}</td>
+          <!-- Edit and Delete Buttons for Each Employee Record -->
+          <td>
+            <button type="button" class="btn btn-success mx-3" (click)="setUpdate(EmployeeItem)">Edit</button>
+            <button type="button" class="btn btn-danger" (click)="setDelete(EmployeeItem)">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
